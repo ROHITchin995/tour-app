@@ -1,9 +1,7 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { Tour } from './Tour';
 
 export const Tours = ({ tours, removeTour }) => {
-    
-    const [readMore, setReadMore] = useState(false);
   return (
     <section>
     <div className="title">

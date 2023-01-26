@@ -45,7 +45,7 @@ function App() {
       </main>
     )
   }
-  console.log(tours)
+
   return (
     <main>
       <Tours tours={tours} removeTour={removeTour} />
