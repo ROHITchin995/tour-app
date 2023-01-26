@@ -3,3 +3,6 @@ detailed description of the tour, and if the user is not interested, the user ca
 their list and view new ones.
 
 Uses the following API : https://course-api.com/react-toursproject
+
+![alt text](home.jpg)
+![alt text](last.jpg)
